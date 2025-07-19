@@ -194,6 +194,7 @@ Bei Fragen oder Problemen:
 - GitHub Issues erstellen
 - IT-Support Kepler UK kontaktieren
 - Dokumentation prüfen
+## Deployment Status: Active
 
 ---
 
